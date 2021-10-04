@@ -11,7 +11,7 @@ Please make a reference to this work if you wish to use this dataset for your re
 [Francesco Bianconi](www.bianconif.net), [Luca Ceccarelli](https://www.linkedin.com/in/luca-ceccarelli-70523626/) and [Stefano Saetta](https://www.linkedin.com/in/saetta/)
 
 ## Keywords
-Anomaly detection, Image classification, Image segmentation, Impurities, Paper, Surface inspection,  
+Anomaly detection, Image classification, Image segmentation, Impurities, Paper, Visual inspection  
 
 ## Organisation
 The dataset contains images from 13 types (classes) of papers; each subfolder in the `data` folder represents one class. There are three subfolders for each class, each containing 48 images:
